@@ -11,6 +11,15 @@ streamlit.text('03. DataYoga: QLIK SENSE MARATHON: DATA VISUALIZATION')
 streamlit.title("My Parrents New Healthy Dinner")
 
 streamlit.header('Breakfast Menu')
-streamlit.text('Omega 3 & Blueberry Oatmeal')
-streamlit.text('Kale, Spinach & Rocket Smoothie')
-streamlit.text('Hard-Boiled Free-Range Egg')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avokado Toasts')
+
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.text('🍌 Bananas')
+streamlit.text('🥭 Ananas')
+streamlit.text('Yogurt')
+
+   
